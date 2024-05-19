@@ -13,11 +13,11 @@ The "DeFi(Empire)" project introduces an ERC20 token, "Yashvi" (Y), and a Vault 
 
 1. Create Avalanche Subnet
    ```bash
-   avalanche subnet create Jio
+   avalanche subnet create coco
    ```
 2. Deploy Subnet
    ```bash
-   avalanche subnet deploy Jio
+   avalanche subnet deploy coco
    ```
 3. Configure Metamask
 
